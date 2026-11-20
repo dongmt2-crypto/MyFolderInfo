@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<dsname>
+  <dsname>
+    <thuoc_tinh>Language</thuoc_tinh>
+    <ten_tt>aa</ten_tt>
+    <gia_tri>Vietnamese.xml</gia_tri>
+  </dsname>
+  <dsname>
+    <thuoc_tinh>Sort_No</thuoc_tinh>
+    <ten_tt>aa</ten_tt>
+    <gia_tri>0</gia_tri>
+  </dsname>
+  <dsname>
+    <thuoc_tinh>Load2level</thuoc_tinh>
+    <ten_tt>aa</ten_tt>
+    <gia_tri>1</gia_tri>
+  </dsname>
+  <dsname>
+    <thuoc_tinh>Image_Dir</thuoc_tinh>
+    <ten_tt>aa</ten_tt>
+    <gia_tri>D:\tmp\MyFolderInfo2\MyFolderInfo\bin\Debug\Images</gia_tri>
+  </dsname>
+  <dsname>
+    <thuoc_tinh>isNumbered</thuoc_tinh>
+    <ten_tt>aa</ten_tt>
+    <gia_tri>1</gia_tri>
+  </dsname>
+  <dsname>
+    <thuoc_tinh>isIncludeSize</thuoc_tinh>
+    <ten_tt>aa</ten_tt>
+    <gia_tri>1</gia_tri>
+  </dsname>
+</dsname>

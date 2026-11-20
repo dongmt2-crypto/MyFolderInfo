@@ -1,0 +1,1040 @@
+<?xml version="1.0" standalone="yes"?>
+<dsname>
+ 	<dsname>
+ 	<form>frmMain</form>	  
+  	  <tag>000</tag>
+   	 <gia_tri>THÔNG TIN THƯ MỤC</gia_tri>
+	</dsname>
+<dsname>
+ <form>frmMain</form>	  
+    <tag>001</tag>
+    <gia_tri>Mở</gia_tri>
+ </dsname>
+	<dsname>
+	 <form>frmMain</form>	  
+    	<tag>002</tag>
+    	<gia_tri>Mở XML</gia_tri>
+    	</dsname>
+<dsname>
+<form>frmMain</form>	  
+<tag>003</tag>
+<gia_tri>Lưu</gia_tri>
+ </dsname>
+	<dsname>
+	 <form>frmMain</form>	  
+    	<tag>004</tag>
+    	<gia_tri>Xuất chữ</gia_tri>
+    	</dsname>
+<dsname>
+<form>frmMain</form>	  
+<tag>005</tag>
+<gia_tri>Cả tập tin</gia_tri>
+</dsname>
+	<dsname>
+ 	<form>frmMain</form>	  
+    	<tag>006</tag>
+    	<gia_tri>Lưu</gia_tri>
+    	</dsname>
+<dsname>
+<form>frmMain</form>	  
+<tag>007</tag>
+<gia_tri>Mở XML</gia_tri>
+</dsname>
+	<dsname>
+ 	<form>frmMain</form>	  
+   	 <tag>008</tag>
+    	<gia_tri>Xin chờ một lát</gia_tri>
+   	 </dsname>
+<dsname>
+<form>frmMain</form>	  
+<tag>009</tag>
+<gia_tri>Sẵn sàng </gia_tri>
+</dsname>
+	<dsname>
+	 <form>frmMain</form>	  
+  	 <tag>010</tag>
+	  <gia_tri>Tìm thấy </gia_tri>
+  	  </dsname>
+<dsname>
+<form>frmMain</form>	  
+ <tag>011</tag>
+ <gia_tri>đối tượng.</gia_tri>
+</dsname>
+<dsname>
+<form>frmMain</form>	  
+ <tag>012</tag>
+ <gia_tri>Đóng</gia_tri>
+</dsname>
+<dsname>
+ <form>frmMain</form>	  
+    <tag>015</tag>
+    <gia_tri>Tùy chọn</gia_tri>
+</dsname>
+<dsname>
+ <form>frmMain</form>	  
+    <tag>016</tag>
+    <gia_tri>Tùy chọn</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>017</tag>
+    <gia_tri>Xóa</gia_tri>
+</dsname>
+<dsname>
+ <form>frmMain</form>	  
+    <tag>018</tag>
+    <gia_tri>Xin chờ một lát...</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>020</tag>
+    <gia_tri>Thực thi</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>021</tag>
+    <gia_tri>Thêm</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>022</tag>
+    <gia_tri>Tìm bên trái</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>023</tag>
+    <gia_tri>Thông tin</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>024</tag>
+    <gia_tri>?Tìm</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>025</tag>
+    <gia_tri>0</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>026</tag>
+    <gia_tri>Tìm chi tiết</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>027</tag>
+    <gia_tri>Màu sắc</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>028</tag>
+    <gia_tri>Không tìm thấy</gia_tri>
+</dsname>
+
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>029</tag>
+    <gia_tri>Xuất chữ</gia_tri>
+</dsname>
+
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>030</tag>
+    <gia_tri>Hình ảnh</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>031</tag>
+    <gia_tri>Công cụ</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>032</tag>
+    <gia_tri>So sánh tập tin</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>033</tag>
+    <gia_tri>Tìm trực tiếp</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>034</tag>
+    <gia_tri>Địa chỉ gốc so sánh</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>035</tag>
+    <gia_tri>GetFolderInfo 1.1 trên Desktop</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>036</tag>
+    <gia_tri>GetFolderInfo VB 6 trên Desktop</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>037</tag>
+    <gia_tri>Tập tin đã tồn tại</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>038</tag>
+    <gia_tri>Hoàn thành</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>039</tag>
+    <gia_tri>Sự kiện</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmOption</form>	  
+    <tag>000</tag>
+    <gia_tri>Tùy chọn</gia_tri>
+    </dsname>
+<dsname>
+ <form>frmOption</form>	  
+    <tag>001</tag>
+    <gia_tri>Tùy chọn</gia_tri>
+    </dsname>
+<dsname>
+ <form>frmOption</form>	  
+    <tag>002</tag>
+    <gia_tri>Sắp xếp theo</gia_tri>
+    </dsname>
+<dsname>
+ <form>frmOption</form>	  
+    <tag>003</tag>
+    <gia_tri>Tên tập tin,Đuôi tập tin</gia_tri>
+    </dsname>
+<dsname>
+ <form>frmOption</form>	  
+    <tag>004</tag>
+    <gia_tri>Tệp ?ngôn ngữ</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>005</tag>
+    <gia_tri>?Lưu</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>006</tag>
+    <gia_tri>?Hủy</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>007</tag>
+    <gia_tri>Tải cây 2 cấp </gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>008</tag>
+    <gia_tri>Không,Có</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>009</tag>
+    <gia_tri>Thư mục hình</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>010</tag>
+    <gia_tri>Giống thư mục chương trình</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>011</tag>
+    <gia_tri>...</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>012</tag>
+    <gia_tri>Đánh số file khi xuất chữ</gia_tri>
+    </dsname>
+	
+<dsname>
+ <form>frmOption</form>	  
+    <tag>013</tag>
+    <gia_tri>Ghi dung lượng file khi xuất chữ</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>000</tag>
+    <gia_tri>NodeInfo</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>001</tag>
+    <gia_tri>Tên nút</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>002</tag>
+    <gia_tri>Địa chỉ</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>003</tag>
+    <gia_tri>Kích thước</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>004</tag>
+    <gia_tri>Ngày sửa</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>005</tag>
+    <gia_tri>Ngày tạo</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>006</tag>
+    <gia_tri>Ngày đọc cuối</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>007</tag>
+    <gia_tri>Đón?g</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>008</tag>
+    <gia_tri>?Lưu</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>000</tag>
+    <gia_tri> Tìm Chi Tiết</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>001</tag>
+    <gia_tri>Tên</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>002</tag>
+    <gia_tri>Kích Thước (KB)</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>003</tag>
+    <gia_tri>đến</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>004</tag>
+    <gia_tri>?Tìm</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>005</tag>
+    <gia_tri>Mở</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>006</tag>
+    <gia_tri>Xem trên cây</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>007</tag>
+    <gia_tri>Stt</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>008</tag>
+    <gia_tri>Tên</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmSearchDetail</form>	  
+    <tag>009</tag>
+    <gia_tri>Không tìm thấy</gia_tri>
+</dsname><dsname>
+ <form>frmSearchDetail</form>	  
+    <tag>010</tag>
+    <gia_tri>URL</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>000</tag>
+    <gia_tri>Lựa chọn màu sắc</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>001</tag>
+    <gia_tri>MÀU SẮC</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>002</tag>
+    <gia_tri>Nút bấm</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>003</tag>
+    <gia_tri>Màu nền</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>004</tag>
+    <gia_tri>Chọn</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>005</tag>
+    <gia_tri>Mẫu thử</gia_tri>
+    </dsname>
+
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>006</tag>
+    <gia_tri>Màu nền 2</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>007</tag>
+    <gia_tri>Màu khi chọn</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>008</tag>
+    <gia_tri>Màu chữ</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>009</tag>
+    <gia_tri>?Lưu</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>010</tag>
+    <gia_tri>Màu 01</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>011</tag>
+    <gia_tri>Màu 02</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>012</tag>
+    <gia_tri>Lưu 02</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>013</tag>
+    <gia_tri>Đón?g</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>014</tag>
+    <gia_tri>Ô nhập liệu</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>015</tag>
+    <gia_tri>Cửa sổ</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>016</tag>
+    <gia_tri>Hình cây</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>017</tag>
+    <gia_tri>Danh sách</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>018</tag>
+    <gia_tri>Nhãn</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>000</tag>
+    <gia_tri>Hình ảnh</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>001</tag>
+    <gia_tri>Mở </gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>002</tag>
+    <gia_tri>Đóng </gia_tri>
+    </dsname>
+
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>003</tag>
+    <gia_tri>Thư mục không hợp lệ</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>004</tag>
+    <gia_tri>Không tìm thấy</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>000</tag>
+    <gia_tri>So sánh tập tin</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>001</tag>
+    <gia_tri>So sánh</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>002</tag>
+    <gia_tri>FB Menu </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>003</tag>
+    <gia_tri>Báo cáo</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>004</tag>
+    <gia_tri>Đóng</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>005</tag>
+    <gia_tri>Stt</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>006</tag>
+    <gia_tri>Tên</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>007</tag>
+    <gia_tri>Địa chỉ </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>008</tag>
+    <gia_tri>Tình trạng</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>009</tag>
+    <gia_tri>Mới hơn</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>010</tag>
+    <gia_tri>Cũ hơn</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>011</tag>
+    <gia_tri>Không thấy</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>012</tag>
+    <gia_tri>Không thấy sự khác biệt</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>013</tag>
+    <gia_tri>Ngày</gia_tri>
+</dsname>
+
+
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>000</tag>
+    <gia_tri>Tìm trực tiếp</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>001</tag>
+    <gia_tri>Tìm</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>002</tag>
+    <gia_tri>Đường dẫn</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>003</tag>
+    <gia_tri>Tìm từ DS</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>004</tag>
+    <gia_tri>Tìm cả tập tin</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>005</tag>
+    <gia_tri>Chọn</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>006</tag>
+    <gia_tri>Tìm</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>007</tag>
+    <gia_tri>Đóng</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>008</tag>
+    <gia_tri>Không hợp lệ</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>009</tag>
+    <gia_tri>Không tìm thấy</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>010</tag>
+    <gia_tri>Stt</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>011</tag>
+    <gia_tri>Tên</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>012</tag>
+    <gia_tri>Địa chỉ</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>013</tag>
+    <gia_tri>Hoàn tất</gia_tri>
+</dsname>
+
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>000</tag>
+    <gia_tri>Kết nối CSDL</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>001</tag>
+    <gia_tri>Máy chủ</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>002</tag>
+    <gia_tri>Tên CSDL</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>003</tag>
+    <gia_tri>Tên</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>004</tag>
+    <gia_tri>Mật khẩu</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>005</tag>
+    <gia_tri>Đăng nhập</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>006</tag>
+    <gia_tri>Đóng</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>007</tag>
+    <gia_tri>Cơ sở dữ liệu không hợp lệ</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>008</tag>
+    <gia_tri>Kiểm tra lại kết nối</gia_tri>
+</dsname>
+
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>000</tag>
+    <gia_tri>Menu</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>001</tag>
+    <gia_tri>Đóng</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>002</tag>
+    <gia_tri>Báo cáo</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>003</tag>
+    <gia_tri>Stt</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>004</tag>
+    <gia_tri>Tên menu</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>005</tag>
+    <gia_tri>EXE</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>006</tag>
+    <gia_tri>Menu Cha</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>000</tag>
+    <gia_tri>Gán địa chỉ gốc so sánh</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>001</tag>
+    <gia_tri>Tên nhánh </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>002</tag>
+    <gia_tri>Địa chỉ gốc so sánh cũ</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>003</tag>
+    <gia_tri>Địa chỉ gốc so sánh mới</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>004</tag>
+    <gia_tri>Lưu</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>005</tag>
+    <gia_tri>Đóng</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>000</tag>
+    <gia_tri>Sự kiện</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>001</tag>
+    <gia_tri>Lưu</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>002</tag>
+    <gia_tri>Hủy</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>003</tag>
+    <gia_tri>Stt</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>004</tag>
+    <gia_tri>Từ ngày</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>005</tag>
+    <gia_tri>Đến ngày</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>006</tag>
+    <gia_tri>Nội dung 1</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>007</tag>
+    <gia_tri>Nội dung 2</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>008</tag>
+    <gia_tri>Hình ảnh</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>010</tag>
+    <gia_tri>Hình</gia_tri>
+</dsname>
+
+
+<dsname>
+<form>frmMain</form>
+    <tag>040</tag>
+    <gia_tri>Thư mục không tồn tại. Kiểm tra lại đường dẫn rồi thử.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>041</tag>
+    <gia_tri>Không có quyền truy cập. Hãy đăng nhập vào ổ đĩa và kiểm tra quyền đọc thư mục này.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>042</tag>
+    <gia_tri>Không kết nối được ổ đĩa mạng. Ổ đĩa ánh xạ chỉ tồn tại trong một phiên đăng nhập Windows, nên ổ đĩa thấy trong File Explorer sẽ không hiện ở đây nếu ứng dụng được chạy với quyền quản trị hoặc bằng tài khoản khác - hãy kết nối lại ổ đĩa bằng đúng tài khoản đó, hoặc nhập đường dẫn \\server\share. Liên kết SharePoint cũng có thể đã hết hạn: mở nó bằng File Explorer để đăng nhập lại rồi thử lại.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>043</tag>
+    <gia_tri>Đường dẫn không hợp lệ.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>044</tag>
+    <gia_tri>Đây là tập tin, không phải thư mục.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>045</tag>
+    <gia_tri>Ổ đĩa chưa kết nối. Hãy kết nối lại ổ đĩa mạng (hoặc liên kết SharePoint) rồi thử lại.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>046</tag>
+    <gia_tri>Ổ đĩa mạng không phản hồi kịp thời gian. Kiểm tra kết nối rồi thử lại.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>047</tag>
+    <gia_tri>Windows không mở được đường dẫn này.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>000</tag>
+    <gia_tri>Quét thư mục</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>001</tag>
+    <gia_tri>Quét thư mục này thế nào?</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>002</tag>
+    <gia_tri>Tất cả các cấp</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>003</tag>
+    <gia_tri>Số cấp:</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>004</tag>
+    <gia_tri>Chỉ lấy tầng đó</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>005</tag>
+    <gia_tri>Đồng ý</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>006</tag>
+    <gia_tri>Hủy</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>000</tag>
+    <gia_tri>Xuất chữ</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>001</tag>
+    <gia_tri>Xuất file text như thế nào?</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>002</tag>
+    <gia_tri>Không đánh số tên thư mục, file</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>003</tag>
+    <gia_tri>Đồng ý</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>004</tag>
+    <gia_tri>Hủy</gia_tri>
+</dsname>
+</dsname>

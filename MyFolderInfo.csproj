@@ -1,0 +1,93 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>MyFolderInfo</RootNamespace>
+    <AssemblyName>MyFolderInfo</AssemblyName>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Platforms>AnyCPU</Platforms>
+    <Prefer32Bit>false</Prefer32Bit>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <!-- Per-monitor v2 DPI awareness. The old app declared nothing and rendered blurry on
+         any scaled display. Declared here rather than in app.manifest so the WinForms
+         designer-generated bootstrap and Program.cs agree (WFAC010 otherwise). -->
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+  </PropertyGroup>
+
+  <!--
+    A hand-written manifest is required here: the SDK-generated one cannot express
+    <longPathAware>, which the deep-folder scanner needs, and the old app had no DPI
+    awareness whatsoever. Program.cs sets the matching runtime defaults.
+  -->
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Product>My Folder Info</Product>
+    <AssemblyTitle>My Folder Info</AssemblyTitle>
+    <Description>Scans folders, builds folder trees, searches and compares them.</Description>
+    <Company>MyFolderInfo</Company>
+    <Copyright>Copyright © MyFolderInfo</Copyright>
+    <Version>2.0.0</Version>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+    <InformationalVersion>2.0.0</InformationalVersion>
+    <NeutralLanguage>en</NeutralLanguage>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--
+      Replaces System.Data.SqlClient, which the old .NET Framework project used. Nothing in
+      the app reads app.config any more - Options.xml and Config.xml are hand-edited XML that
+      the app parses itself - so System.Configuration.ConfigurationManager is not needed.
+    -->
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Configs\**" />
+    <None Include="Configs\**" />
+  </ItemGroup>
+
+  <!-- Runtime data files that must sit next to the executable. -->
+  <ItemGroup>
+    <None Update="icon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="app.manifest" />
+    <None Update="Config.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Options.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Events.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Languages\**\*.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\**\*.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\**\*.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <!--
+    The old <COMReference> entries for WMPLib / AxWMPLib (Windows Media Player) were
+    dead weight: nothing in this codebase references them. They only forced a
+    .NET Framework-only MSBuild (ResolveComReference is unsupported by `dotnet build`)
+    and dragged ~400 KB of unused interop assemblies into the output. Removed.
+  -->
+
+</Project>

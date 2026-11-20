@@ -1,0 +1,1048 @@
+<?xml version="1.0" standalone="yes"?>
+<dsname>
+ 	<dsname>
+ 	<form>frmMain</form>	  
+  	  <tag>000</tag>
+   	 <gia_tri>MY FOLDER INFO</gia_tri>
+	</dsname>
+<dsname>
+ <form>frmMain</form>	  
+    <tag>001</tag>
+    <gia_tri>Open</gia_tri>
+ </dsname>
+	<dsname>
+	 <form>frmMain</form>	  
+    	<tag>002</tag>
+    	<gia_tri>Open XML</gia_tri>
+    	</dsname>
+<dsname>
+<form>frmMain</form>	  
+<tag>003</tag>
+<gia_tri>Save</gia_tri>
+ </dsname>
+	<dsname>
+	 <form>frmMain</form>	  
+    	<tag>004</tag>
+    	<gia_tri>Export Text</gia_tri>
+    	</dsname>
+<dsname>
+<form>frmMain</form>	  
+<tag>005</tag>
+<gia_tri>Includes files</gia_tri>
+</dsname>
+	<dsname>
+ 	<form>frmMain</form>	  
+    	<tag>006</tag>
+    	<gia_tri>Save</gia_tri>
+    	</dsname>
+<dsname>
+<form>frmMain</form>	  
+<tag>007</tag>
+<gia_tri>Open XML</gia_tri>
+</dsname>
+	<dsname>
+ 	<form>frmMain</form>	  
+   	 <tag>008</tag>
+    	<gia_tri>Please wait...</gia_tri>
+   	 </dsname>
+<dsname>
+<form>frmMain</form>	  
+<tag>009</tag>
+<gia_tri>Ready.... </gia_tri>
+</dsname>
+	<dsname>
+	 <form>frmMain</form>	  
+  	 <tag>010</tag>
+	  <gia_tri>Found </gia_tri>
+  	  </dsname>
+<dsname>
+<form>frmMain</form>	  
+ <tag>011</tag>
+ <gia_tri>item(s).</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>	  
+ <tag>012</tag>
+ <gia_tri>Cl?ose</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>015</tag>
+    <gia_tri>Options</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>016</tag>
+    <gia_tri>Options</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>017</tag>
+    <gia_tri>Remove</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>018</tag>
+    <gia_tri>Please wait a moment...</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>020</tag>
+    <gia_tri>Execution</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>021</tag>
+    <gia_tri>Add</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>022</tag>
+    <gia_tri>Search Left </gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>023</tag>
+    <gia_tri>Node Info</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>024</tag>
+    <gia_tri>?Search</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>025</tag>
+    <gia_tri>0</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>026</tag>
+    <gia_tri>Detail Search</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>027</tag>
+    <gia_tri>Color Config</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>028</tag>
+    <gia_tri>End of Search</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>029</tag>
+    <gia_tri>Export Text</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>030</tag>
+    <gia_tri>Gallery</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>031</tag>
+    <gia_tri>Tools</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>032</tag>
+    <gia_tri>File Comparison</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>033</tag>
+    <gia_tri>Direct Search</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>034</tag>
+    <gia_tri>URL Comparison</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>035</tag>
+    <gia_tri>GetFolderInfo 1.1 on Desktop</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>036</tag>
+    <gia_tri>GetFolderInfo VB 6 on Desktop</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>037</tag>
+    <gia_tri>File Existed</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>038</tag>
+    <gia_tri>Completed</gia_tri>
+</dsname>
+
+<dsname>
+ <form>frmMain</form>	  
+    <tag>039</tag>
+    <gia_tri>Events</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmOption</form>	  
+    <tag>000</tag>
+    <gia_tri>Options</gia_tri>
+    </dsname>
+<dsname>
+ <form>frmOption</form>	  
+    <tag>001</tag>
+    <gia_tri>Options</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>002</tag>
+    <gia_tri>Sort files by </gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>003</tag>
+    <gia_tri>Name,Extension</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>004</tag>
+    <gia_tri>?Language file</gia_tri>
+    </dsname>
+<dsname>
+ <form>frmOption</form>	  
+    <tag>005</tag>
+    <gia_tri>?Save</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>006</tag>
+    <gia_tri>?Cancel</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>007</tag>
+    <gia_tri>Load tree 2 levels </gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>008</tag>
+    <gia_tri>No,Yes</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>009</tag>
+    <gia_tri>Image Dir</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>010</tag>
+    <gia_tri>Same as program directory</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>011</tag>
+    <gia_tri>...</gia_tri>
+    </dsname>
+
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>011</tag>
+    <gia_tri>...</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmOption</form>	  
+    <tag>012</tag>
+    <gia_tri>Numbered file when export text</gia_tri>
+    </dsname>
+	
+<dsname>
+ <form>frmOption</form>	  
+    <tag>013</tag>
+    <gia_tri>Include file size when export text</gia_tri>
+    </dsname>
+
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>000</tag>
+    <gia_tri>NodeInfo</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>001</tag>
+    <gia_tri>Node Name</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>002</tag>
+    <gia_tri>URL</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>003</tag>
+    <gia_tri>Size (KB)</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>004</tag>
+    <gia_tri>Modiffied Date</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>005</tag>
+    <gia_tri>Created Date</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>006</tag>
+    <gia_tri>Last Access</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>007</tag>
+    <gia_tri>?Close</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmNodeInfo</form>	  
+    <tag>008</tag>
+    <gia_tri>?Save</gia_tri>
+    </dsname>
+
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>000</tag>
+    <gia_tri>Detail Search</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>001</tag>
+    <gia_tri>Name</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>002</tag>
+    <gia_tri>Size (KB)</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>003</tag>
+    <gia_tri>to</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>004</tag>
+    <gia_tri>?Search</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>005</tag>
+    <gia_tri>Open</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>006</tag>
+    <gia_tri>Show in Tree View</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>007</tag>
+    <gia_tri>No</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmSearchDetail</form>	  
+    <tag>008</tag>
+    <gia_tri>Name</gia_tri>
+    </dsname>
+
+<dsname>
+ <form>frmSearchDetail</form>	  
+    <tag>009</tag>
+    <gia_tri>End of Search</gia_tri>
+</dsname><dsname>
+ <form>frmSearchDetail</form>	  
+    <tag>010</tag>
+    <gia_tri>URL</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>000</tag>
+    <gia_tri>COLOR CONFIG</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>001</tag>
+    <gia_tri>COLOR CONFIG</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>002</tag>
+    <gia_tri>Button</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>003</tag>
+    <gia_tri>Back color</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>004</tag>
+    <gia_tri>Chose</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>005</tag>
+    <gia_tri>Template</gia_tri>
+    </dsname>
+
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>006</tag>
+    <gia_tri>Back Color 2</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>007</tag>
+    <gia_tri>Selected Color</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>008</tag>
+    <gia_tri>Fore Color</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>009</tag>
+    <gia_tri>?Save</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>010</tag>
+    <gia_tri>Color 01</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>011</tag>
+    <gia_tri>Color 02</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>012</tag>
+    <gia_tri>Save 02</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>013</tag>
+    <gia_tri>?Close</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>014</tag>
+    <gia_tri>Textbox</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>015</tag>
+    <gia_tri>Form</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>016</tag>
+    <gia_tri>Tree view</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>017</tag>
+    <gia_tri>List view</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmColor</form>	  
+    <tag>018</tag>
+    <gia_tri>Label</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>000</tag>
+    <gia_tri>Gallery</gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>001</tag>
+    <gia_tri>Open Folder </gia_tri>
+    </dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>002</tag>
+    <gia_tri>Close </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>003</tag>
+    <gia_tri>Invalid Directory </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmPictures</form>	  
+    <tag>004</tag>
+    <gia_tri>Found nothing</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>000</tag>
+    <gia_tri>File Comparison</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>001</tag>
+    <gia_tri>Compare </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>002</tag>
+    <gia_tri>Go to Menu </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>003</tag>
+    <gia_tri>Report </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>004</tag>
+    <gia_tri>Close </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>005</tag>
+    <gia_tri>No </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>006</tag>
+    <gia_tri>Name</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>007</tag>
+    <gia_tri>URL </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>008</tag>
+    <gia_tri>Status </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>009</tag>
+    <gia_tri>Newer</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>010</tag>
+    <gia_tri>Older</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>011</tag>
+    <gia_tri>Not Found</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>012</tag>
+    <gia_tri>Not found any changes </gia_tri>
+</dsname>
+
+<dsname>
+<form>frmCompare</form>	  
+    <tag>013</tag>
+    <gia_tri>Date</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>000</tag>
+    <gia_tri>Direct Search</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>001</tag>
+    <gia_tri>Search</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>002</tag>
+    <gia_tri>Path</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>003</tag>
+    <gia_tri>Search in List</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>004</tag>
+    <gia_tri>Include Files</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>005</tag>
+    <gia_tri>Select</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>006</tag>
+    <gia_tri>Search</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>007</tag>
+    <gia_tri>Close</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>008</tag>
+    <gia_tri>Invalid</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>009</tag>
+    <gia_tri>Not Found</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>010</tag>
+    <gia_tri>No</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>011</tag>
+    <gia_tri>Name</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>012</tag>
+    <gia_tri>URL</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmDirectSearch</form>	  
+    <tag>013</tag>
+    <gia_tri>Completed</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>000</tag>
+    <gia_tri>Connection</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>001</tag>
+    <gia_tri>Server</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>002</tag>
+    <gia_tri>Database</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>003</tag>
+    <gia_tri>User Name</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>004</tag>
+    <gia_tri>Password</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>005</tag>
+    <gia_tri>Login</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>006</tag>
+    <gia_tri>Close</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>007</tag>
+    <gia_tri>Invalid Database</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmConnection</form>	  
+    <tag>008</tag>
+    <gia_tri>Check your connection again</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>000</tag>
+    <gia_tri>Menu</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>001</tag>
+    <gia_tri>Close</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>002</tag>
+    <gia_tri>Report</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>003</tag>
+    <gia_tri>No</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>004</tag>
+    <gia_tri>Menu Name</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>005</tag>
+    <gia_tri>EXE</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMenu</form>	  
+    <tag>006</tag>
+    <gia_tri>Parent Menu</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>000</tag>
+    <gia_tri>Set Comparison URL</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>001</tag>
+    <gia_tri>Node name</gia_tri>
+</dsname>
+
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>002</tag>
+    <gia_tri>Old Comparison URL</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>003</tag>
+    <gia_tri>New Comparison URL</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>004</tag>
+    <gia_tri>Save</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmSetUrlCompare</form>	  
+    <tag>005</tag>
+    <gia_tri>Close</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>000</tag>
+    <gia_tri>Events</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>001</tag>
+    <gia_tri>Save</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>002</tag>
+    <gia_tri>Close</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>003</tag>
+    <gia_tri>No</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>004</tag>
+    <gia_tri>From Date</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>005</tag>
+    <gia_tri>To Date</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>006</tag>
+    <gia_tri>Message</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>007</tag>
+    <gia_tri>Message 2</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>008</tag>
+    <gia_tri>Image</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmEvents</form>	  
+    <tag>010</tag>
+    <gia_tri>Images</gia_tri>
+</dsname>
+<dsname>
+<form>frmMain</form>
+    <tag>040</tag>
+    <gia_tri>That folder does not exist. Check the path and try again.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>041</tag>
+    <gia_tri>Access denied. Sign in to the drive and make sure you have permission to read this folder.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>042</tag>
+    <gia_tri>The network drive could not be reached. Mapped drives belong to one Windows sign-in session, so a drive that shows up in File Explorer is invisible here if this app was started as administrator or as another user - reconnect the drive from the same user, or enter the \\server\share path instead. A SharePoint link can also expire: open it in File Explorer to sign in again, then retry.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>043</tag>
+    <gia_tri>That is not a valid path.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>044</tag>
+    <gia_tri>That is a file, not a folder.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>045</tag>
+    <gia_tri>That drive is not connected. Reconnect the network drive (or the SharePoint link) and try again.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>046</tag>
+    <gia_tri>The network drive did not answer in time. Check the connection and try again.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmMain</form>
+    <tag>047</tag>
+    <gia_tri>Windows could not open that path.</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>000</tag>
+    <gia_tri>Scan folder</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>001</tag>
+    <gia_tri>How should this folder be scanned?</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>002</tag>
+    <gia_tri>All levels</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>003</tag>
+    <gia_tri>Number of levels:</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>004</tag>
+    <gia_tri>Only that level</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>005</tag>
+    <gia_tri>OK</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmScanMode</form>
+    <tag>006</tag>
+    <gia_tri>Cancel</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>000</tag>
+    <gia_tri>Export text</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>001</tag>
+    <gia_tri>How should the text file be written?</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>002</tag>
+    <gia_tri>Do not number folder and file names</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>003</tag>
+    <gia_tri>OK</gia_tri>
+</dsname>
+
+<dsname>
+<form>frmTextExport</form>
+    <tag>004</tag>
+    <gia_tri>Cancel</gia_tri>
+</dsname>
+</dsname>
+

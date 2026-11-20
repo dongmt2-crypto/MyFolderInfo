@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<XML>
+  <event>
+    <Stt>01</Stt>
+    <Ngay1>16/12/2008</Ngay1>
+    <Ngay2>24/12/2015</Ngay2>
+    <Message>CHÚC HẢI GIÁNG SINH VUI VẺ </Message>
+    <Message2>MERRY CHRISTMAS TO HẢI</Message2>
+    <Image_url>MerryChristmas.jpg</Image_url>
+  </event>
+  <event>
+    <Stt>02</Stt>
+    <Ngay1>25/12/2008</Ngay1>
+    <Ngay2>05/01/2009</Ngay2>
+    <Message>CHÚC MỪNG NĂM MỚI TỚI HẢI VÀ GIA ĐỈNH</Message>
+    <Message2>HAPPY NEW YEAR YOUR FAMILY</Message2>
+    <Image_url>EVENTS.JPG</Image_url>
+  </event>
+  <event>
+    <Stt>03</Stt>
+    <Ngay1>25/01/2009</Ngay1>
+    <Ngay2>15/02/2009</Ngay2>
+    <Message>CHÚC MỪNG NĂM MỚI</Message>
+    <Message2>HAPPY NEW YEAR</Message2>
+    <Image_url>xuan2009.jpg</Image_url>
+  </event>
+</XML>

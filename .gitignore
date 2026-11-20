@@ -1,0 +1,38 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# NuGet
+packages/
+*.nupkg
+
+# Runtime artifacts produced next to the executable.
+# The atomic writers create these as <file>.tmp / <file>.bak; a leftover one means a save was
+# interrupted, so do not commit them - but do not delete them either, they may be a
+# recoverable copy of a user's data file.
+*.tmp
+*.bak
+
+# User data. These are the files the app reads and writes at runtime, and several are very
+# large; they are not source.
+#   Config.xml   - colour theme
+#   Options.xml  - language, sort order, image folder
+#   Events.xml   - banner events
+#   *.xml at the repo root are exported folder trees (one is ~150 MB)
+
+# Note: the checked-in copies of Config.xml / Options.xml / Events.xml under the project root
+# are intentionally tracked - they are the defaults the app copies to its output directory.
+# Only ignore them once the project has been switched to a per-user location.
+
+# Large exported folder-tree data files (not source)
+/Drive G4.xml
+/soft.xml
